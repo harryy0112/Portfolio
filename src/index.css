@@ -38,7 +38,8 @@ body {
   background: var(--color-bg);
   color: var(--color-white);
   line-height: 1.7;
-  background-image: url(../src/assets/bg-texture.png);
+  /* background-image: url(../src/assets/bg-texture.png); */
+  background-color: #1f1f38;
 }
 
 /* =============== General Styles ============== */
@@ -66,7 +67,7 @@ h1 {
 
 section {
   margin-top: 32rem;
-  height: 85vh;
+  height: 100vh;
 }
 
 section > h2,

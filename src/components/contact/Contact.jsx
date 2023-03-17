@@ -53,7 +53,7 @@ const Contact = () => {
             <h4>Whatsapp</h4>
             <h5>+91-9411092306</h5>
             <a
-              href="https://api.whatsapp.com/send?phone=+919411092306"
+              href="https://wa.me/+919411092306"
               target="_blank"
             >
               Send a message
@@ -70,7 +70,7 @@ const Contact = () => {
           <input type="email" name="email" placeholder="Your Email" required />
           <textarea
             name="message"
-            rows="7"
+            rows="10"
             placeholder="Your Message"
             required
           ></textarea>

@@ -27,22 +27,23 @@ const About = () => {
 
             <article className="about__card">
               <FiUsers className="about__icon" />
-              <h5>Clients</h5>
-              <small>3+ Worldwide</small>
+              <h5>Connections</h5>
+              <small>100+</small>
             </article>
 
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
               <h5>Projects</h5>
-              <small>10+ Completed</small>
+              <small>6+ Completed</small>
             </article>
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-            Laudantium, quam! Illum expedita porro neque quasi repellat sunt,
-            facilis, saepe cum aliquam, omnis amet excepturi ipsum? Temporibus
-            perferendis commodi autem! Reprehenderit?
+            I'm a Fullstack Web Developer and UI/UX enthusiast. A GenZ techie,
+            all I seek is good food, good music and love for my work! I'm
+            currently working on the Backend Development and improving myself
+            with the emerging web designing trends . I aspire to become a SDE,
+            creating and delivering the best out there.
           </p>
 
           <a href="#contact" className="btn btn-primary">

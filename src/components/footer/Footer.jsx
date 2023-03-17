@@ -22,9 +22,6 @@ const Footer = () => {
           <a href="#experience">Experience</a>
         </li>
         <li>
-          <a href="#services">Services</a>
-        </li>
-        <li>
           <a href="#portfolio">Portfolio</a>
         </li>
         <li>
@@ -33,19 +30,19 @@ const Footer = () => {
       </ul>
 
       <div className="footer__socials">
-        <a href="https://facebook.com">
+        <a href="https://www.facebook.com/harryy0112/">
           <FaFacebookF />
         </a>
-        <a href="https://instagram.com">
+        <a href="https://www.linkedin.com/in/harryy0112/">
           <FiInstagram />
         </a>
-        <a href="https://twitter.com">
+        <a href="https://twitter.com/ItsHardikkA">
           <IoLogoTwitter />
         </a>
       </div>
 
       <div className="footer__copyright">
-        <small>&copy; Hardik Agarwal. All rights reserved.</small>
+        <small>Designed and Developed with ❤ by Hardik Agarwal</small>
       </div>
     </footer>
   );

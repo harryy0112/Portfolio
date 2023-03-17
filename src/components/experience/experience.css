@@ -41,6 +41,10 @@
   color: var(--color-primary);
 }
 
+#experience {
+  margin-top: 6rem;
+}
+
 /* =========== MEDIA QUERIES ( MEDIUM DEVICES ) ========== */
 
 @media screen and (max-width: 1024px) {
