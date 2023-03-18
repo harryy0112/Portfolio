@@ -63,7 +63,6 @@ height {
   font-size: 0.9rem;
 }
 
-
 /* =========== MEDIA QUERIES ( MEDIUM DEVICES ) ========== */
 
 @media screen and (max-width: 1024px) {
@@ -79,7 +78,8 @@ height {
     height: 100vh;
   }
 
-  .header__socials, .scroll__down {
+  .header__socials,
+  .scroll__down {
     display: none;
   }
 }
